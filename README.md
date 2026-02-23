@@ -1,6 +1,13 @@
-# AmaShop
+# AmaShop- Amazon.com-like website with Admin Panel
 
 A full-stack e-commerce application with Vue 3 frontend and Express/Supabase backend.
+
+View live: https://amashop-one.vercel.app/
+
+Login as admin2@amashop.com, password: admin123 to access admin dashboard
+
+<img width="1857" height="1087" alt="image" src="https://github.com/user-attachments/assets/5b2d2521-fb18-4dd9-9689-a9e8cb61b6b5" />
+
 
 ## Tech Stack
 
