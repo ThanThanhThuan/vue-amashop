@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "https://api-supabase-seven.vercel.app/api/$1" }
+  ]
+}
